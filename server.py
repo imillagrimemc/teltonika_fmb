@@ -5,8 +5,8 @@ import psycopg2
 from twos_complement import twos_complement
 
 
-SERVER = "178.218.207.99"
-PORT = 8887
+SERVER = "YOUR_IP"
+PORT = YOUR_PORT
 
 
 db_url = "localhost"
